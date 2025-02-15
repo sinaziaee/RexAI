@@ -1,1 +1,1 @@
-# Repository for Calgary Hacks 2025 (WildGaurdAPP)
+#University of Calgary AI system to find deals and manage workflow of conversation for new international students
